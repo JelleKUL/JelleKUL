@@ -10,7 +10,7 @@ Phd Researcher [@KuLeuven](https://iiw.kuleuven.be/onderzoek/geomatics/home)
 - [geomapi](https://geomatics.pages.gitlab.kuleuven.be/research-projects/geomapi/index.html)
 - [geomapi-alignmenttools](https://github.com/JelleKUL/geomapi-alignmenttools)
 - [geomapi-completiontools](https://github.com/JelleKUL/geomapi-alignmentserver)
-- [geomapi-alignmentserver](https://github.com/JelleKUL/geomapi-completiontools)]
+- [geomapi-alignmentserver](https://github.com/JelleKUL/geomapi-completiontools)
 
 ### Unity3d
 
