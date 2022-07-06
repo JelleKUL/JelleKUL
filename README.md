@@ -14,7 +14,7 @@ Phd Researcher [@KuLeuven](https://iiw.kuleuven.be/onderzoek/geomatics/home)
 
 ### Unity3d
 
-- [XRDataCollection](https://github.com/JelleKUL/XRDataCollection)
+- [GeoSharpi](https://github.com/JelleKUL/GeoSharpi)
 - [MeshTexturing](https://github.com/JelleKUL/MeshTexturing)
 
 ## Completed Projects
