@@ -3,20 +3,21 @@ Phd Researcher [@KuLeuven](https://iiw.kuleuven.be/onderzoek/geomatics/home)
 
 [website](https://www.jellever.be/research)
 
-## Currently Developing
+## Research Projects
 
 ### Python
 
-- [geomapi](https://geomatics.pages.gitlab.kuleuven.be/research-projects/geomapi/index.html)
-- [geomapi-alignmenttools](https://github.com/JelleKUL/geomapi-alignmenttools)
-- [geomapi-alignmentserver](https://github.com/JelleKUL/geomapi-alignmentserver)
-- [geomapi-completiontools](https://github.com/JelleKUL/geomapi-completiontools)
+- `Developing` [geomapi](https://geomatics.pages.gitlab.kuleuven.be/research-projects/geomapi/index.html)
+- `Finished` [geomapi-alignmenttools](https://github.com/JelleKUL/geomapi-alignmenttools)
+- `Developing` [geomapi-alignmentserver](https://github.com/JelleKUL/geomapi-alignmentserver)
+- `Finished` [geomapi-completiontools](https://github.com/JelleKUL/geomapi-completiontools)
+- `Preview` [segmentationtools](https://github.com/JelleKUL/generic-segmentation-tools)
 
 ### Unity3d
 
-- [GeoSharpi](https://github.com/JelleKUL/GeoSharpi)
-- [MeshTexturing](https://github.com/JelleKUL/MeshTexturing)
+- `Finished` [GeoSharpi](https://github.com/JelleKUL/GeoSharpi)
+- `Preview` [MeshTexturing](https://github.com/JelleKUL/MeshTexturing)
 
-## Completed Projects
+## Educational Resources
 
-It's all a neverending work in progress
+- [Algorithms Course](https://github.com/JelleKUL/algorithms-course-student)
