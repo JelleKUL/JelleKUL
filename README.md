@@ -8,9 +8,7 @@ Phd Researcher [@KuLeuven](https://iiw.kuleuven.be/onderzoek/geomatics/home)
 ### Python
 
 - `Developing` [geomapi](https://geomatics.pages.gitlab.kuleuven.be/research-projects/geomapi/index.html)
-- `Finished` [geomapi-alignmenttools](https://github.com/JelleKUL/geomapi-alignmenttools)
 - `Developing` [geomapi-alignmentserver](https://github.com/JelleKUL/geomapi-alignmentserver)
-- `Finished` [geomapi-completiontools](https://github.com/JelleKUL/geomapi-completiontools)
 - `Preview` [segmentationtools](https://github.com/JelleKUL/generic-segmentation-tools)
 
 ### Unity3d
