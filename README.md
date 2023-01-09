@@ -33,6 +33,9 @@ Phd Researcher [@KuLeuven](https://iiw.kuleuven.be/onderzoek/geomatics/home), vi
 
 ## :books: Educational Resources
 
+### [MeasureUp: Serious Game Topography](https://iiw.kuleuven.be/serious-game-topografie/)
+> A game to learn the inns and outs of Topography
+
 ### [Algorithms Course](https://github.com/JelleKUL/algorithms-course-student) 
 > <img alt="Releases" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white">\
 > The Source files for the algorithms course at the KU Leuven
