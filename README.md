@@ -6,6 +6,10 @@ Phd Researcher [@KuLeuven](https://iiw.kuleuven.be/onderzoek/geomatics/home), vi
 
 ## 🏛 Research Projects
 
+### [XR Data Interaction](https://github.com/JelleKUL/XRDataInteraction)
+> <img alt="Releases" src="https://img.shields.io/badge/-Unity-000?logo=unity"> <img alt="developing" src="https://img.shields.io/badge/status-developing-yellow">\
+> The main Unity Project for XR Data Interaction
+
 ### [Geomapi](https://geomatics.pages.gitlab.kuleuven.be/research-projects/geomapi/index.html) 
 ><img alt="Releases" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white"> <img alt="developing" src="https://img.shields.io/badge/status-developing-yellow">\
 >A Collection of Functions and Tools to work with Geomatic data.
