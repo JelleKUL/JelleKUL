@@ -33,8 +33,9 @@ Phd Researcher [@KuLeuven](https://iiw.kuleuven.be/onderzoek/geomatics/home), vi
 
 ## :books: Educational Resources
 
-### [MeasureUp: Serious Game Topography](https://iiw.kuleuven.be/serious-game-topografie/)
-> A game to learn the inns and outs of Topography
+### [MeasureUp: Serious Game Topography](https://github.com/JelleKUL/KULeuven-Game)
+> <img alt="Releases" src="https://img.shields.io/badge/-Unity-000?logo=unity"> <img alt="finished" src="https://img.shields.io/badge/status-finished-green">\
+> A game to learn the inns and outs of Topography: [Play MeasureUp](https://iiw.kuleuven.be/serious-game-topografie/)
 
 ### [Algorithms Course](https://github.com/JelleKUL/algorithms-course-student) 
 > <img alt="Releases" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white">\
