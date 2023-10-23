@@ -30,7 +30,7 @@ Phd Researcher [@KuLeuven](https://iiw.kuleuven.be/onderzoek/geomatics/home), vi
 
 ### [Segmentation Tools](https://github.com/JelleKUL/segmentationtools) 
 > <img alt="Releases" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white"> <img alt="preview" src="https://img.shields.io/badge/status-preview-orange">\
-> Tools to intelligently segment enviromnents.
+> Tools to intelligently segment environments.
 
 ### [Generation Tools](https://github.com/JelleKUL/generationtools) 
 > <img alt="Releases" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white"> <img alt="preview" src="https://img.shields.io/badge/status-preview-orange">\
