@@ -18,7 +18,7 @@ Phd Researcher [@KuLeuven](https://iiw.kuleuven.be/onderzoek/geomatics/home), vi
 
 ## Data Alignment & Combination
 
-### [Geomapi](https://geomatics.pages.gitlab.kuleuven.be/research-projects/geomapi/index.html) 
+### [Geomapi](https://github.com/KU-Leuven-Geomatics/geomapi)
 > <img alt="Releases" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white"> <img alt="finished" src="https://img.shields.io/badge/status-finished-green">\
 > A Collection of Functions and Tools to work with Geomatic data.
 
